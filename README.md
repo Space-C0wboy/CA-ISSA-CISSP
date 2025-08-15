@@ -3,8 +3,8 @@
 </p>
 
 
-# CA-ISSA-CISSP
-# CISSP Bootcamp Recommended Training Materials
+<h1 align="center">CA-ISSA-CISSP</h1>
+<h2 align="center">CISSP Bootcamp Recommended Training Materials</h1>
 
 ---
 
