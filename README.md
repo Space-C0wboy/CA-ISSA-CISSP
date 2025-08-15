@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/2025-cissp-exam-prep.png" alt="2025 CISSP Exam Prep Workshop" />
+</p>
+
 # CA-ISSA-CISSP
 # CISSP Bootcamp Recommended Training Materials
 
