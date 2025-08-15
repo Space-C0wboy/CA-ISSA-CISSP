@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="images/2025-cissp-exam-prep.png" alt="2025 CISSP Exam Prep Workshop" />
+  <img src="https://github.com/Space-C0wboy/CA-ISSA-CISSP/blob/main/CAISSA-e1627582899389.png?raw=true" alt="CA-ISSA CISSP Workshop" />
 </p>
+
 
 # CA-ISSA-CISSP
 # CISSP Bootcamp Recommended Training Materials
