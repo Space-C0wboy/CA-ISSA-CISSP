@@ -122,4 +122,4 @@
 
  -  **Thor Peterson Udemy**
     *Source: [https://www.udemy.com/user/thorpedersen/](https://www.udemy.com/user/thorpedersen/)*
-
+- *(Link List from Jeffrey Moore (In Addition there are Resources Listed by Domain)* - [https://github.com/jefferywmoore/CISSP-Study-Resources](https://github.com/jefferywmoore/CISSP-Study-Resources)
