@@ -29,8 +29,8 @@
 
 ## Audiobooks
 
-- **(ISC)² CISSP Official Study Guide (9th Edition)**
-  *Vendor: Sybex/Wiley*
+- **(ISC)² CISSP Official Study Guide (9th Edition)**  
+  *Vendor: Sybex/Wiley*  
   *Source: [Audible](https://www.audible.com/pd/ISC2-CISSP-Certified-Information-Systems-Security-Professional-Official-Study-Guide-9th-Edition-Audiobook/B0BWX1NDWS)*  
   An updated audiobook covering 100% of the CISSP exam objectives, providing expert content and advice on mastering the adaptive exam, along with access to the Sybex online interactive learning environment.
 
