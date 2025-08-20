@@ -120,6 +120,6 @@
   *Source: [cybersecuritystation.org](https://cybersecuritystation.org/)*  
   A free online community for cybersecurity professionals and learners, offering Discord, LinkedIn, Twitter, and YouTube channels with study groups, career advice, and technical discussions.
 
-  **Thor Peterson Udemy**
+ -  **Thor Peterson Udemy**
     *Source: [https://www.udemy.com/user/thorpedersen/](https://www.udemy.com/user/thorpedersen/)*
 
