@@ -21,8 +21,8 @@
   A concise study guide aligned with the 2024 CISSP exam outline, featuring clear explanations, diagrams, and summary tables to help you confidently pass the CISSP exam.
 
 - **Eleventh Hour CISSP: Study Guide**
-  *By: Joshua Feldman (Author), Seth Misenar (Author), Eric Conrad (Author)*
-  *Source: [Amazon](https://www.amazon.com/Eleventh-Hour-CISSP-Study-Guide/dp/0124171427)*
+  *By: Joshua Feldman (Author), Seth Misenar (Author), Eric Conrad (Author)*  
+  *Source: [Amazon](https://www.amazon.com/Eleventh-Hour-CISSP-Study-Guide/dp/0124171427)*  
   This book is streamlined to include only core certification information and is presented for ease of last minute studying. Main objectives of the exam are covered concisely with key concepts highlighted.
 
 ---
