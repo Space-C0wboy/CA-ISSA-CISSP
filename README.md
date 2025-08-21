@@ -125,3 +125,8 @@
 - *(Link List from Jeffrey Moore (In Addition there are Resources Listed by Domain)* - [https://github.com/jefferywmoore/CISSP-Study-Resources](https://github.com/jefferywmoore/CISSP-Study-Resources)
 - *(Destination CISSP Mindmap)* - [https://destcert.com/cissp-mindmaps/](https://destcert.com/cissp-mindmaps/)
 
+
+- **Boson CISSP Exam**  
+  *Vendor: Boson*  
+  *Source: [Boson CISSP](https://www.boson.com/certification/cissp)*  
+  A PAID Resource with a Question Bank for studying for the CISSP
