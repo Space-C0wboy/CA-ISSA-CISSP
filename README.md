@@ -127,5 +127,5 @@
    *Source: [https://github.com/jefferywmoore/CISSP-Study-Resources](https://github.com/jefferywmoore/CISSP-Study-Resources)*
 - *(Destination CISSP Mindmap)*
   *Vendor: (Destination CISSP)*
-  *[https://destcert.com/cissp-mindmaps/](https://destcert.com/cissp-mindmaps/)*
+  *Source: [https://destcert.com/cissp-mindmaps/](https://destcert.com/cissp-mindmaps/)*
 
