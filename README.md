@@ -125,7 +125,8 @@
      *Source: [https://www.udemy.com/user/thorpedersen/](https://www.udemy.com/user/thorpedersen/)*
 
 - *(Link List from Jeffrey Moore (In Addition there are Resources Listed by Domain)*  
-   *Source: [https://github.com/jefferywmoore/CISSP-Study-Resources](https://github.com/jefferywmoore/CISSP-Study-Resources)*
+  *Vendor*: Jeffrey Moore and Resource Creators Linked on the Repository 
+  *Source: [https://github.com/jefferywmoore/CISSP-Study-Resources](https://github.com/jefferywmoore/CISSP-Study-Resources)*
 
 - *(Destination CISSP Mindmap)*
   *Vendor: *Destination CISSP*
