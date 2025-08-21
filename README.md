@@ -132,3 +132,8 @@
   *Vendor: *Destination CISSP*
   *Source: [https://destcert.com/cissp-mindmaps/](https://destcert.com/cissp-mindmaps/)*
 
+
+- **Boson CISSP Exam**  
+  *Vendor: Boson*  
+  *Source: [Boson CISSP](https://www.boson.com/certification/cissp)*  
+  A PAID Resource with a Question Bank for studying for the CISSP
