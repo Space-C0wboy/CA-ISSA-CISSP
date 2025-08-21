@@ -126,6 +126,7 @@
 - *(Link List from Jeffrey Moore (In Addition there are Resources Listed by Domain)*  
    *Source: [https://github.com/jefferywmoore/CISSP-Study-Resources](https://github.com/jefferywmoore/CISSP-Study-Resources)*
 - *(Destination CISSP Mindmap)*
-  *Vendor: Destination CISSP*
+
+  *Vendor: (Destination CISSP)*
   *[https://destcert.com/cissp-mindmaps/](https://destcert.com/cissp-mindmaps/)*
 
